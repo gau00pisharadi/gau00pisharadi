@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gau00pisharadi
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python development
 - 📫 How to reach me email- gau.psharadi@gmail.com
 
 <!---
